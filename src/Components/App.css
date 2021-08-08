@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+.App{
+    background-image: url("../Images/1.svg");
+    background-position:center;
+    background-size:auto 550px;
+    background-repeat: no-repeat;
+    height:800px ;
+    
+}
+.Content{
+font-family: Poppins;
+font-style: normal;
+}
+.title{
+    font-family:Raleway;
+    text-shadow: 0px 4px 7px rgba(0, 0, 0, 0.25);
+}
+.subtitle{
+    font-family: Poppins;
+    font-size:14px;
+}
+.area{
+    padding:200px 285px 0px 285px;
+   
+}
+.head{
+    padding-top:30px;
+    padding-bottom: 20px;
+    font-family: Poppins;
+    font-size: 12px;
+    background-color: #FAEACC;
+
+}
+.logo{
+    font-size:20px;
+    padding:100px 140px 0px 140px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.foot{
+    background-color:#FAEACC;
+    height:120px;
+    margin-top:60px;
+}
+.but{
+    margin-top: 45px;
+    padding:15px;
+    margin:20px;
+    margin-left:0px;
+    background-color:  #ADD7CC;
+    border-radius: 40px;
+
+}
+.but1{
+    margin-top:35px;
+    padding:15px;
+    margin:20px;
+    margin-right:0px;
+    background-color:  #F9B668;
+    border-radius: 40px;
+
+}
+.signin{
+    background-color: #ADD7CC;
+    padding:15px;  
+    margin-top:-15px;
+    font-family: Poppins;
+    font-size:15px;
+    margin-left:20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 32.4px;
+}
+.img{
+    height:70px;
+    width:80px;
+    margin: 40px 10px 10px 20px;
+}
+.Nav{
+    color:black;
+    font-family: Poppins;
+    font-size: 10px;
+}
+.arrow{
+    margin:80px 10px 10px 10px ;
+    
+}
+.first{
+    background-image:url("../Images/Vector.png") ;
+    background-position:center;
+    height:140px;
+    background-repeat: no-repeat;
+}
+button{
+    background: transparent;
+    border: none;
+}
